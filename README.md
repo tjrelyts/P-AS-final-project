@@ -24,4 +24,5 @@ Here is a breakdown of each project:
   This application demonstrates the knowledge I learned in Octave by applying the same "plot, salt, and smooth" methods to a dataset using GNU Octave.
 >
 The **Project 2 Wrap-Up Report.docx** is a final written report describing each project as well as a few more tasks that were assigned. It gives a much more in-depth summary of what was assigned and the results.
+
 The **P&AS Formula Sheet.docx** is a written document of all of the formulas that I learned throughout the semester in Probability and Applied Statistics.
